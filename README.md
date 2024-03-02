@@ -1,17 +1,10 @@
 # An eCommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Vastra-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Vastra-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Vastra-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
-
 Vastra is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-![Vastra Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Vastra Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Live Demo](https://kumarguddu609.github.io/Vastra-Ecommerce/)
 
 ## Prerequisites
 
