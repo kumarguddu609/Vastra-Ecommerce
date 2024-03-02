@@ -26,18 +26,14 @@ To install **Vastra**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/kumarguddu609/ecommerce.git
+sudo git clone https://github.com/kumarguddu609/Vastra-Ecommerce.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/kumarguddu609/ecommerce.git
+git clone https://github.com/kumarguddu609/Vastra-Ecommerce.git
 ```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ## License
 
