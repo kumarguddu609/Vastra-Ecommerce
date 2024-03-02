@@ -4,7 +4,7 @@ Vastra is a fully responsive ecommerce website, maximum compatiblities in all mo
 
 ## Demo
 
-![Live Demo](https://kumarguddu609.github.io/Vastra-Ecommerce/)
+![Live Demo](https://kumarguddu609.github.io/Vastra-Ecommerce/ "Live View")
 
 ## Prerequisites
 
